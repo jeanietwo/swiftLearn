@@ -9,13 +9,15 @@
  + Understand the different operators and their basic uses
  */
 // Arithmetic (+, -, /, *)
-
+var usingMath = 5 + 4 - 3 / 2 * 1
 
 // Remainder/Modulo
-
+var hpRemainder = 10 % 9
 
 // Compound assignments (+=, -=, *=, /=, %=)
-
+var currentMP = 15
+currentMP -= 5
+currentMP += 10
 
 // Comparisons (==, !=, >, <, >=, <=)
 
